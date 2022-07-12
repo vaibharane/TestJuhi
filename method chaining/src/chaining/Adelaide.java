@@ -1,0 +1,9 @@
+package chaining;
+
+public class Adelaide implements InterAdelaide {
+	public void Adelaide1 ()
+	{
+		//System.out.println("hello");
+	}
+
+}
