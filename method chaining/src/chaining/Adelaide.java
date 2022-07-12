@@ -5,6 +5,8 @@ public class Adelaide implements InterAdelaide {
 	{
 		System.out.println("hello");
 		System.out.println("Hi");
+		System.out.println("hello");
+		System.out.println("Hi");
 		
 	}
 
